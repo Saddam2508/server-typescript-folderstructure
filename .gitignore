@@ -2,4 +2,8 @@ commonjs_esm
 IIFE
 express_learning
 node_modules
-.env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
